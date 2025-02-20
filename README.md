@@ -66,7 +66,7 @@ This project focuses on **Sentiment Analysis** of IMDb movie reviews using **Lon
 
 ## 📌 How to Run
 1. Clone the repository:  
-   git clone https://github.com/your-repo/sentiment-analysis.git
+   git clone https://github.com/alimgty/Miniproject-2nd-Year---Sentimental-Analysis-on-Movie-Rating-Predictions-using-LSTM
    
 2. Install dependencies:  
    pip install -r requirements.txt
